@@ -1,0 +1,5 @@
+{
+  "name": "RSVS - Coaching Platform",
+  "description": "Web-Based Coaching Institute Management Platform covering student onboarding, live/recorded classes, and online exams.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
